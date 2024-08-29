@@ -36,6 +36,7 @@ The goal is to provide actionable insights that help improve customer satisfacti
 
 - **Python 3.7+**
 - **pip** (Python package installer)
+- **confidential data**
 
 ### Steps to Install
 
