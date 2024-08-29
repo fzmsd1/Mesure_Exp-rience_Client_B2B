@@ -1,6 +1,3 @@
-Certainly! Here's a well-structured README for your GitHub repository, incorporating the elements mentioned in the image you provided.
-
----
 
 # Mesure de l'Expérience Client B2B chez Orange 📊
 
